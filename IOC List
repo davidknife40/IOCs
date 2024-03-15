@@ -102,3 +102,58 @@ Tunneler Tool
 380f941f8047904607210add4c6da2da8f8cd398
 Anti Virus Tools Killer
 
+## Network Indicators
+### BlackCat
+Domain
+resources.docusong[.]com
+Command and Control Server
+
+Domain
+Fisa99.screenconnect[.]com
+ScreenConnect Remote Access
+
+IP Address
+5.199.168.24
+Command and Control Server
+
+IP Address
+91.92.254.193
+SimpleHelp Remote Access
+
+Domain
+pcrendal[.]com
+Command and Control Server
+
+Domain
+instance-qqemas-relay[.]screenconnect[.]com
+ScreenConnect Remote Access
+
+Domain
+instance-rbjvws-relay.screenconnect[.]com
+ScreenConnect Remote Access
+
+IP Address
+5.199.168[.]233
+IP Address used by Threat Actor
+
+IP Address
+92.223.89[.]55
+IP Address used by Threat Actor
+
+IP Address
+185.195.59[.]218
+IP Address used by Threat Actor
+
+IP Address
+51.159.103[.]112
+IP Address used by Threat Actor
+
+IP Address
+45.32.141[.]168
+Command and Control Server
+
+IP Address
+45.77.0[.]92
+Command and Control Server
+
+
