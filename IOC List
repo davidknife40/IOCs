@@ -1,0 +1,104 @@
+# IOCs
+## C2 / Domains
+### Cobalt Strike Servers
+185.196.9[.]234:443
+111[.]229[.]19[.]199:80
+111[.]229[.]19[.]199,/en_US/all[.]js
+123[.]207[.]56[.]214:80
+service-bvvdi136-1317500845[.]gz[.]tencentapigw[.]com,/pixel
+xunleicloud[.]com,/ga[.]js
+82[.]156[.]177[.]149:443
+120[.]222[.]152[.]206,/en-us/silentauth,120[.]222[.]152[.]234,/en-us/silentauth
+Host Header: tile-service[.]weather[.]microsoft[.]com
+
+### Mirai
+45.125.66.54:1311
+45.125.66.37:1311
+45.125.66.61:1311
+45.125.66.64:1311
+45.125.66.68:1311
+45.125.66.95:1311
+45.125.66.109:1311
+45.125.66.137:1311
+45.125.66.146:1311
+45.125.66.152:1311
+
+### AsyncRAT
+128.90.128[.]157:9999
+
+## MD5 Hashes
+### BlackCat
+944153fb9692634d6c70899b83676575
+ALPHV Windows Encryptor
+
+341d43d4d5c2e526cadd88ae8da70c1c
+Anti Virus Tools Killer
+363.sys
+
+34aac5719824e5f13b80d6fe23cbfa07
+CobaltStrike BEACON
+LMtool.exe
+
+eea9ab1f36394769d65909f6ae81834b
+CobaltStrike BEACON
+Info.exe
+
+379bf8c60b091974f856f08475a03b04
+ALPHV Linux Encryptor
+him
+
+ebca4398e949286cb7f7f6c68c28e838
+SimpleHelp Remote Management tool
+first.exe
+
+c04c386b945ccc04627d1a885b500edf
+Tunneler Tool
+conhost.exe
+
+824d0e31fd08220a25c06baee1044818
+Anti Virus Tools Killer
+ibmModule.dll
+
+eea9ab1f36394769d65909f6ae81834b
+CobaltStrike BEACON
+ConnectivityDiagnos.exe
+
+944153fb9692634d6c70899b83676575
+ALPHV Windows Encryptor
+7O3cCX9YcHMV2.exe
+
+61804a029e9b1753d58a6bf0274c25a6
+MeshCentral Agent
+WPEHOSTSVC64.exe
+
+83deea3b61b6a734e7e4a566dbb6bffa
+ScreenConnect & attacker tools installer
+deployService.exe
+
+8738b8637a20fa65c6e64d84d1cfe570
+Suspected Proxy Tool
+socks32.exe
+
+## SHA256 Hashes
+### BlackCat
+3dd0f674526f30729bced4271e6b7eb0bb890c52
+ALPHV Windows Encryptor
+
+d6d442e8b3b0aef856ac86391e4a57bcb93c19ad
+Anti Virus Tools Killer
+
+6b52543e4097f7c39cc913d55c0044fcf673f6fc
+CobaltStrike BEACON
+
+004ba0454feb2c4033ff0bdb2ff67388af0c41b6
+CobaltStrike BEACON
+
+430bd437162d4c60227288fa6a82cde8a5f87100
+SimpleHelp Remote Management tool
+
+1376ac8b5a126bb163423948bd1c7f861b4bfe32
+Tunneler Tool
+
+380f941f8047904607210add4c6da2da8f8cd398
+Anti Virus Tools Killer
+
