@@ -1,0 +1,66 @@
+# Downloader
+Tiworker.exe (TiWorker.exe is a legitimate Windows binary)
+
+# PS Script
+get.png
+
+# Scheduled Tasks created - persistence
+OneDriveCloudSync
+DefaultBrowserUpdate
+OneDriveCloudBackup
+
+# GhostEngine process name
+smartscreen.exe
+
+# Drivers downloaded to stop EDR functions
+IObitUnlockers.sys (removes related exe)
+aswArPots.sys (Avast driver to stop EDR)
+
+# DLLs installed
+oci.dll (loaded by msdtc) Obtains new copy of get.png to install most recent GhostEngine version
+
+## Domains
+download.yrnvtklot.com
+ftp.yrnvtklot.com
+online.yrnvtklot.com
+
+## IPs
+111.90.158.40
+93.95.225.137
+
+## MD5
+18957d83337a7f6a879d739be02b173e
+4c8e4c5c0e150c210cd2014a84e39ec6
+f8f3a7faa13d6370b96d07d4d184357f
+bd877072c51ee58ec7aaf091bff0b80c
+cf66c76445f74b90be8914dfe06697cb
+bf05392d1205ce66a45a1104fb67adf8
+271520c83f847743aa6eaccd1b949797
+587b173ef971d242933e18f43c18256b
+b9e37dd582a6ff810672f9b33865c217
+
+## SHA256
+2fe78941d74d35f721556697491a438bf3573094d7ac091b42e4f59ecbd25753
+3ced0552b9ecf3dfecd14cbcc3a0d246b10595d5048d7f0d4690e26ecccc1150
+3b2724f3350cb5f017db361bd7aae49a8dbc6faa7506de6a4b8992ef3fd9d7ab
+35eb368c14ad25e3b1c58579ebaeae71bdd8ef7f9ccecfc00474aa066b32a03f
+786591953336594473d171e269c3617d7449876993b508daa9b96eedc12ea1ca
+aac7f8e174ba66d62620bd07613bac1947f996bb96b9627b42910a1db3d3e22b
+6f3e913c93887a58e64da5070d96dc34d3265f456034446be89167584a0b347e
+7c242a08ee2dfd5da8a4c6bc86231985e2c26c7b9931ad0b3ea4723e49ceb1c1
+cc4384510576131c126db3caca027c5d159d032d33ef90ef30db0daa2a0c4104
+
+## SHA1
+125982676af23e93fa58b31ef1bdb93725cb91c3
+d6dfce664ee28cdcf143da2ec71d2a0ff18c1280
+1c552f0ade7213e81c3aeb581faab24061f03485
+41fce204948df6af1fe2f3f6dec02086678eab3b
+993323c62dab609fd1d8f5876f604d9da861fb35
+9a77e7e641f1336b4b6fbe0dadb54ea4356212f1
+8de84714fe4e0fc52c3ff988653b9c69e5753cb2
+792d5430ef2c60088fbc388714eb4aff63f5f593
+4b851160b5f87dee9c526e36c0d7e0a28c6de0a9
+
+
+
+
